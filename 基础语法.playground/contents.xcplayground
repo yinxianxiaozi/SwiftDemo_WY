@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='基础语法'/>
+        <page name='Fuction'/>
+        <page name='枚举、可选项'/>
+    </pages>
+</playground>
