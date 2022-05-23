@@ -8,8 +8,23 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+//        Text("Hello, world!")
+//            .padding()
+        
+        VStack {
+            //Text
+            Text("我是一个Text").bold().foregroundColor(.red)
+            
+            //Button
+            Button {
+                print("button点击响应")
+            } label: {
+                Text("我是按钮")
+            }
+            
+//            Picker
+
+        }
     }
 }
 
