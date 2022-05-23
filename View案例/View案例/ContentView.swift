@@ -13,7 +13,7 @@ struct ContentView: View {
         
         VStack {
             //Text
-            Text("我是一个Text").bold().foregroundColor(.red)
+            Text("我是一个Text，**Markdown语法加粗了**")
             
             //Button
             Button {
